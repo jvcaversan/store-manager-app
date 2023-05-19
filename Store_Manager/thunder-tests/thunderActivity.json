@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "f535be69-ff72-4ed9-92c8-edb50f034f13",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/products",
+    "url": "localhost:3000/products/search?q=Martelo",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-02-04T13:55:37.196Z",
+    "modified": "2023-02-06T20:43:58.805Z",
+    "headers": [],
+    "params": [
+      {
+        "name": "q",
+        "value": "Martelo",
+        "isPath": false
+      }
+    ],
+    "tests": []
+  },
+  {
+    "_id": "4e9e301b-66aa-4a01-adbc-f9876c7ad236",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3006/products",
+    "url": "localhost:3000/products",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-02-04T13:55:43.900Z",
+    "modified": "2023-02-05T11:33:23.291Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "5b3547a6-0f95-4035-a5fd-a87f29645ccc",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3000/products",
+    "url": "http://localhost:3000/products",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-02-04T13:57:32.148Z",
+    "modified": "2023-02-07T19:26:53.782Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"a\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "6496843e-1475-446f-8618-5ba69d5f834f",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/products/1",
+    "url": "localhost:3000/products/3",
+    "method": "DELETE",
+    "sortNum": 0,
+    "created": "2023-02-06T11:31:51.458Z",
+    "modified": "2023-02-07T15:52:20.397Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "68296f14-4775-4087-81fd-24465a05930a",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/products/2",
+    "url": "localhost:3000/products/4",
+    "method": "DELETE",
+    "sortNum": 0,
+    "created": "2023-02-06T11:31:57.300Z",
+    "modified": "2023-02-06T11:32:27.847Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
